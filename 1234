@@ -1,0 +1,38 @@
+{
+    "id": "1234",
+    "url": "https://myovahost.com/12345",
+    "content":
+    {
+        "title": "MI OVA",
+        "subject": "educación, aplicaciones",
+        "description": "Pagina web donde podemos aprender sobre aplicaciones",
+        "type": "software",
+        "source": ["RC607.A26W574 1996"],
+        "relation":
+        [
+            {
+                "type": "IsVersionOf",
+                "resource": "Mi Otra Ova"
+            }    
+        ],
+        "coverage":
+        {
+            "temporal": "2020",
+            "spatial": "Cali, Colombia"
+        }
+    },
+    "intellectual-property":
+    {
+        "creator": "Joe Doe",
+        "publisher": "Univalle",
+        "contributor": "Fulanito de Tal",
+        "rights": "Access limited to members"
+    },
+    "instantiation":
+    {
+        "date": "2020-01-15",
+        "format": "Text/html",
+        "identifier": "https://myovahost.com/12345",
+        "language": "es-co"
+    }
+}
